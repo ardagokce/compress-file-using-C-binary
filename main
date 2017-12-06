@@ -8,7 +8,7 @@ void ConvertFileIN();
 int main() {
 	
 		
-ConverFileIN();
+ConvertFileIN();
 
 
 	system("Pause");
